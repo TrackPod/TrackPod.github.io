@@ -2,6 +2,11 @@
   display: inline-block;
 }
 
+.img.align-self-stretch {
+background-image: url(images/fernando_headshot.png);
+    background-size: contain;
+}
+
 .ftco-social {
   padding: 0; }
   .ftco-social li {

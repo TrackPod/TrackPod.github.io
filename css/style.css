@@ -5,6 +5,21 @@ body {
   font-weight: 300;
   font-size: 1rem; }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.main-menu {
+  margin: 0 auto;
+}
+
+.site-menu {
+  text-align: center;
+  li {
+    display: inline-block;
+  }
+}
+
 ::-moz-selection {
   background: #000;
   color: #fff; }

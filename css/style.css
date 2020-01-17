@@ -8,6 +8,10 @@ background-image: url(images/fernando_headshot.png);
     background-size: cover;
 }
 
+.unit-4.d-block {
+  height: 240px;
+}
+
 .ftco-social {
   padding: 0; }
   .ftco-social li {
